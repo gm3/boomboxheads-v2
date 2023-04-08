@@ -2,9 +2,9 @@
     
 # Boomboxheads V2  
     
-* https://gm3.github.io/bbdapp/ Project Home Page
+* https://gm3.github.io/boomboxheads-v2/ Project Home Page Repo
 * https://twitter.com/boomboxheads Project Twitter
-* discord.gg/ad6Cj6PQ84 Project Discord
+* https://discord.gg/ad6Cj6PQ84 Project Discord
     
 ---
 
