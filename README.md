@@ -2,7 +2,8 @@
     
 # Boomboxheads V2  
     
-* https://gm3.github.io/boomboxheads-v2/ Project Home Page Repo
+* https://gm3.github.io/boomboxheads-v2/ Project Home Page 
+* https://github.com/gm3/boomboxheads-v2 Repo 
 * https://twitter.com/boomboxheads Project Twitter
 * https://discord.gg/ad6Cj6PQ84 Project Discord
     
