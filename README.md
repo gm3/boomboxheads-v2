@@ -2,7 +2,7 @@
     
 # Boomboxheads V2  
     
-Boomboxhead v2** is an NFT collection of 420 VRMs on the Ethereum Network, created using an open-source tool called [boom-tools](https://github.com/gm3/boom-tools), a Unity project, which generates 3D avatars from 3D traits and exports them as VRMs.
+Boomboxhead v2 is an NFT collection of 420 VRMs on the Ethereum Network, created using an open-source tool called [boom-tools](https://github.com/gm3/boom-tools), a Unity project, which generates 3D avatars from 3D traits and exports them as VRMs.
     
 ![](https://hackmd.io/_uploads/SJfwQDJG3.png)
 
