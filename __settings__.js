@@ -18,6 +18,6 @@ window.INPUT_SETTINGS = {
 };
 pc.script.legacy = false;
 window.PRELOAD_MODULES = [
-    {'moduleName' : 'BASIS', 'glueUrl' : 'files/assets/115567177/1/basis.wasm.js', 'wasmUrl' : 'files/assets/115566967/1/basis.wasm.wasm', 'fallbackUrl' : 'files/assets/115567264/1/basis.js', 'preload' : false},
     {'moduleName' : 'Ammo', 'glueUrl' : 'files/assets/115567192/1/ammo.wasm.js', 'wasmUrl' : 'files/assets/115567041/1/ammo.wasm.wasm', 'fallbackUrl' : 'files/assets/115567185/1/ammo.js', 'preload' : true},
+    {'moduleName' : 'BASIS', 'glueUrl' : 'files/assets/115567177/1/basis.wasm.js', 'wasmUrl' : 'files/assets/115566967/1/basis.wasm.wasm', 'fallbackUrl' : 'files/assets/115567264/1/basis.js', 'preload' : false},
 ];

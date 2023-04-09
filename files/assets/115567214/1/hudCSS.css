@@ -10,10 +10,13 @@
 }
 
 .hashTag {
-    font-size: 20px;
+     width: 300px;
+    font-size: 12px;
     color: rgba(255, 255, 255, 0.8);
     font-family: Arial;
     font-weight: bold;
+    padding: 10px;
+    float: inline-start;
 }
 
 .button {
