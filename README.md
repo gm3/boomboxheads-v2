@@ -9,7 +9,7 @@ Boomboxhead v2 is an NFT collection of 420 VRMs on the Ethereum Network, created
 * https://twitter.com/boomboxheads Project Twitter
 * https://discord.gg/ad6Cj6PQ84 Project Discord
 
-![](https://hackmd.io/_uploads/SJfwQDJG3.png)
+![](https://hackmd.io/_uploads/By4fH-lf3.png)
 
 ![](https://hackmd.io/_uploads/B1sImvyG3.png)
 
